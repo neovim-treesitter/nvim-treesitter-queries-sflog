@@ -1,7 +1,7 @@
 {
-  "parser_version": "3597575a429766dd7ecce9f5bb97f6fec4419d5d",
-  "location": "sflog",
-  "semver": false,
+  "lang": "sflog",
   "url": "https://github.com/aheber/tree-sitter-sfapex",
-  "lang": "sflog"
+  "semver": false,
+  "parser_version": "3597575a429766dd7ecce9f5bb97f6fec4419d5d",
+  "location": "sflog"
 }
